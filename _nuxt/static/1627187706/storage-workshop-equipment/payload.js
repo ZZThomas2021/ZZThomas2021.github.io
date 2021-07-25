@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/storage-workshop-equipment", {data:[{}],fetch:{},mutations:void 0});

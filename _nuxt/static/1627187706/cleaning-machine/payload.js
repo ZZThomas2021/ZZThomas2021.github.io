@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/cleaning-machine", {data:[{}],fetch:{},mutations:void 0});
