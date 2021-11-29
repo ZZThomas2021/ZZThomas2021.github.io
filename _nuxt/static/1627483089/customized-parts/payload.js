@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/customized-parts", {data:[{}],fetch:{},mutations:void 0});

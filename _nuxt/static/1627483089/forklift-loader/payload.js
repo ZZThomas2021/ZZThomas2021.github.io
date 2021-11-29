@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/forklift-loader", {data:[{}],fetch:{},mutations:void 0});
